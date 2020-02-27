@@ -130,4 +130,7 @@ dmypy.json
 
 
 #Clarity's models
-**/do2vec/**
+**/doc2vec/**
+*.npy
+*.bin
+*.vec
